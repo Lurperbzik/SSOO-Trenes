@@ -33,6 +33,11 @@ Queda por estudiar un algoritmo para encontrar las subsecciones de forma automá
 
 **Ejecución del proyecto**
 
-Compilar con: gcc -m32 lomo.c -L. -llomo -o lomo
-
-Ejecutar: ./lomo <velocidad> <número_trenes>
+Compilar con: 
+```bash
+gcc -m32 lomo.c -L. -llomo -o lomo
+```
+Ejecutar:
+```bash
+./lomo <velocidad> <número_trenes>
+```
